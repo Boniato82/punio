@@ -1,5 +1,8 @@
 # punio
 
+## Instructions in other Languages
+- [Spanish (Español)] (https://github.com/cattivofics/punio/blob/master/README_ES.md)
+
 ## requirements:
 
 - get the proper version of [pywin32](https://sourceforge.net/projects/pywin32/files/pywin32/)
